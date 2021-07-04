@@ -1,2 +1,2 @@
-# MLHday1repo
+# MLH-INIT-2022-DAY-1-REPO
 Task of Day 1
